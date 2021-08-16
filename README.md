@@ -1,4 +1,4 @@
-# LeetCode_LRU_Cache
+# LRU_Cache
 
 
 Problem:
